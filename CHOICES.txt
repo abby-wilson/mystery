@@ -2,6 +2,6 @@ CHOICES
 
 First Choice: __1__
 Second Choice: __1__
-Third Choice: __3, 1, __
-Fourth Choice: __1, 1__
-Fifth Choice: __2__
+Third Choice: __3, 1, 1__
+Fourth Choice: __1, 1. 1__
+Fifth Choice: __2, 1__
